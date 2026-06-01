@@ -6,8 +6,10 @@
 
 <br/>
 
-![](https://komarev.com/ghpvc/?username=kalapakasrimahalaxmi&style=for-the-badge&color=blueviolet&label=PROFILE+VIEWS)
-![](https://img.shields.io/github/followers/kalapakasrimahalaxmi?style=for-the-badge&color=purple&label=FOLLOWERS)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=kalapakasrimahalaxmi&style=for-the-badge&color=blueviolet&label=PROFILE+VIEWS" />
+  <img src="https://img.shields.io/github/followers/kalapakasrimahalaxmi?style=for-the-badge&color=purple&label=FOLLOWERS" />
+</p>
 
 </div>
 
