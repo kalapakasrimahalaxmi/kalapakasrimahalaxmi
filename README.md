@@ -74,6 +74,7 @@ class SriMahalaxmi:
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
+
 </div>
 
 ---
@@ -107,6 +108,26 @@ class SriMahalaxmi:
 - 💡 **Groq API** generates smart feedback and improvement suggestions
 - ⚡ Fast, lightweight, and easy to use
 
+---
+
+### 💬 RAG Chatbot Assistant
+![](https://img.shields.io/badge/Status-Completed-success?style=flat-square)
+![](https://img.shields.io/badge/Timeline-Jun%202026-blue?style=flat-square)
+![](https://img.shields.io/badge/Type-LLM%20%7C%20RAG-green?style=flat-square)
+
+> Retrieval-Augmented Generation (RAG) chatbot built using **Python, LangChain, Groq API, and Vector Databases**
+
+- 📄 Upload PDF, DOCX, or TXT documents
+- 🔍 Semantic search using vector embeddings
+- 🧠 Retrieves relevant document chunks before generating answers
+- ⚡ Fast responses powered by Groq LLMs
+- 💬 Interactive chat interface with Streamlit
+- 📚 Reduces hallucinations by grounding responses in uploaded data
+
+
+---
+
+
 </div>
 
 ---
@@ -132,6 +153,9 @@ class SriMahalaxmi:
 ![RAG](https://img.shields.io/badge/RAG_Systems-Learning-blue?style=for-the-badge&logoColor=white)
 ![Vector DBs](https://img.shields.io/badge/Vector_Databases-Learning-FF6B6B?style=for-the-badge&logoColor=white)
 ![Hugging Face](https://img.shields.io/badge/Hugging_Face-Exploring-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![RAG](https://img.shields.io/badge/RAG_Systems-Advanced-2ea44f?style=for-the-badge&logoColor=white)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-Using-success?style=for-the-badge)
+![FAISS](https://img.shields.io/badge/FAISS-Using-success?style=for-the-badge)
 
 </div>
 
@@ -169,9 +193,9 @@ class SriMahalaxmi:
 | Goal | Status |
 |---|---|
 | 🏢 Land an AI/Python Internship | 🔥 In Progress |
-| 🤖 Build a full RAG-based LLM app | 🔥 In Progress |
+| 🤖 Build a full RAG-based LLM app | ✅ Completed |
 | 📦 Publish projects on GitHub | ✅ Started |
-| 📝 Learn Vector Databases | 🌱 Learning |
+| 📝 Learn Vector Databases | ✅ Completed |
 | 🌐 Build a personal portfolio website | 📋 Planned |
 
 </div>
