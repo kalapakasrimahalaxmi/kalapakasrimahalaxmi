@@ -175,7 +175,7 @@ class SriMahalaxmi:
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Status
 
 <div align="center">
 
