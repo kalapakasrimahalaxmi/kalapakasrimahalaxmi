@@ -138,7 +138,7 @@ class SriMahalaxmi:
 
 | 🏫 Institution | 📚 Degree | 📅 Year | 🎯 CGPA |
 |---|---|---|---|
-| Keshav Memorial College of Engineering (JNTUH) | B.Tech — Computer Science & Engineering | 2023 – 2027 | 6.9 / 10 |
+| Keshav Memorial College of Engineering (JNTUH) | B.Tech — Computer Science & Engineering | 2023 – 2027 | 7 / 10 |
 
 </div>
 
